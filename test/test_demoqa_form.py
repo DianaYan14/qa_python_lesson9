@@ -1,4 +1,4 @@
-from qa_python_lesson9.demoqa_form import RegistrationPage
+from demoqa_tests.demoqa_form import RegistrationPage
 from selene import have
 
 
